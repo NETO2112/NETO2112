@@ -16,6 +16,6 @@
 <div align="center">
   <a href="https://github.com/NETO2112">
   <img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=NETO2112&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NETO2112&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NETO2112&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
