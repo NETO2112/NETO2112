@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Neto!</h1>
 
-<!--
-**NETO2112/NETO2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I'm on my last term in bachelor's degree in physics at UFSC;
+- ⚙️ I'm currently in a FullStack course at SENAI;
+- 💡 I'm learning HTML, JavaScript, CSS and React;
+- 📧 My email: antonio97_tij@gmail.com
+ 
+<h3>You can find me here:<h3>
+  
+<div>
+  <a href="https://www.linkedin.com/in/ant%C3%B4nio-augusto-sperandio-neto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Antônio Neto" /></a>
+</div>
 
-Here are some ideas to get you started:
+  ##
+  
+<div align="center">
+  <a href="https://github.com/NETO2112">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NETO2112&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NETO2112&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
