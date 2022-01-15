@@ -8,14 +8,14 @@
 <h3>You can find me here:<h3>
   
 <div>
-  <a href="https://www.linkedin.com/in/ant%C3%B4nio-augusto-sperandio-neto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Antônio Neto" /></a>
+  <a href="https://www.linkedin.com/in/antonio-sperandio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Antônio Neto" /></a>
 </div>
 
   ##
   
 <div align="center">
   <a href="https://github.com/NETO2112">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NETO2112&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NETO2112&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=NETO2112&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NETO2112&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
