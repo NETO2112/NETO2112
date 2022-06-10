@@ -3,7 +3,7 @@
 - 🎓 I'm on my last term in bachelor's degree in physics at UFSC;
 - ⚙️ I'm currently in a FullStack course at SENAI;
 - 💡 I'm learning HTML, JavaScript, CSS and React;
-- 📧 My email: antonio97_tij@gmail.com
+- 📧 My email: antoniosperandiodev@gmail.com
  
 <h3>You can find me here:<h3>
   
