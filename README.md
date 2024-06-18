@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Neto!</h1>
 
-- 🎓 I'm on my last term in bachelor's degree in physics at UFSC;
+- 🎓 I hold a bachelor's degree in physics at UFSC;
 - ⚙️ I'm currently in a FullStack course at SENAI;
 - 💡 I'm learning HTML, JavaScript, CSS and React;
 - 📧 My email: antoniosperandiodev@gmail.com
